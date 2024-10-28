@@ -19,9 +19,9 @@ function App() {
      {/* About Section */}
       <section id="about" className="about-section">
   <div className="about-content">
-  <img src="ketan.jpg" alt="Willious Kayira" /><img src="ketan.jpg" alt="Willious Kayira" /><img src="ketan.jpg" alt="Willious Kayira" />
+
     <div className="about-text">
-      <h2>Imagine a world without the technology we rely on today?</h2>
+      <h2>It’s not about ideas. It’s about making ideas happen. Scott Belsky</h2>
       <p>
         Hello! I'm Willious Kayira, a final-year student at the University of Malawi, pursuing a Bachelor of Education in Computer Science. 
         I’m passionate about leveraging technology to design user-friendly, visually appealing digital experiences that make life easier for everyone. 
