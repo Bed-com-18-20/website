@@ -202,19 +202,7 @@ footer {
   text-decoration: underline;
 }
 
-.social-links {
-  margin-top: 15px;
-}
 
-.social-links a {
-  color: white;
-  margin: 0 10px;
-  text-decoration: none;
-}
-
-.social-links a:hover {
-  text-decoration: underline;
-}
 
 /* Responsive Grid */
 @media (max-width: 600px) {

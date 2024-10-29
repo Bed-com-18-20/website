@@ -153,11 +153,7 @@ function App() {
     <div className="footer-content">
         <p>Created By <strong>Willious Kayira</strong> | © 2024 All Rights Reserved</p>
                
-        <div className="social-links">
-            <a href="https://www.linkedin.com/in/williouskayira" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
-            <a href="https://twitter.com/williouskayira" target="_blank" rel="noopener noreferrer">Twitter</a> |
-            <a href="https://github.com/williouskayira" target="_blank" rel="noopener noreferrer">GitHub</a>
-        </div>
+        
     </div>
 </footer>
 
